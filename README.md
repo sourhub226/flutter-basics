@@ -1,5 +1,9 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)](https://dart.dev/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple)](https://developer.apple.com/ios/)
+
+
 ![ViewCount](https://views.whatilearened.today/views/github/sourhub226/flutter-basics.svg)
 
 # Flutter & Dart Fundamentals
