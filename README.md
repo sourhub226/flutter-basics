@@ -3,7 +3,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/sourhub226/flutter-basics.svg)
 
 # Flutter & Dart Fundamentals
-Basic apps for getting started with flutter and dart.
+Handcrafted basic apps for getting started with flutter and dart.
 
 <!-- | [app](https://dart.dev/)  | [app](https://dart.dev/) | [app](https://dart.dev/)  |
 |:-:|:-:|:-:|
