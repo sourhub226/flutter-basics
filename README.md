@@ -12,4 +12,4 @@ Handcrafted basic apps for getting started with flutter and dart.
 | <img src="https://picsum.photos/900/1600" width=300>  | <img src="https://picsum.photos/900/1600" width=300>  | <img src="https://picsum.photos/900/1600" width=300>  | -->
 
 
-> [See this gist](https://gist.github.com/sourhub226/cc9538ec0a4818b454ce7b4459bce524) for fundamentals of dart programming language.
+> [See this gist](https://gist.github.com/sourhub226/cc9538ec0a4818b454ce7b4459bce524) for Dart programming examples with outputs.
